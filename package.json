@@ -1,0 +1,24 @@
+{
+  "name": "font-awesome-pro",
+  "version": "6.6.0",
+  "description": "Font Awesome 6.6.0 Pro Full Package",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Use this package in your project!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkbviet/font-awesome-6.6.0-pro-full.git"
+  },
+  "keywords": [
+    "font-awesome",
+    "icons",
+    "pro"
+  ],
+  "author": "tkbviet",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/tkbviet/font-awesome-6.6.0-pro-full/issues"
+  },
+  "homepage": "https://github.com/tkbviet/font-awesome-6.6.0-pro-full#readme"
+}
