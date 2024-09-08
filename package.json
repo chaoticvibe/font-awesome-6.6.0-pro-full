@@ -4,6 +4,7 @@
   "private": true,
   "description": "Font Awesome 6.6.0 Pro Full Package",
   "main": "css/all.css",
+  "style": "css/all.css",
   "scripts": {
     "start": "echo 'Use this package in your project!'"
   },
