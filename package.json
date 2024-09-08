@@ -1,15 +1,20 @@
 {
-  "name": "@fortawesome/fontawesome-free",
-  "version": "6.6.0",
-  "private": true,
-  "description": "Font Awesome 6.6.0 Pro Full Package",
+  "name": "font-awesome-pro",
+  "version": "1.0.0",
   "main": "css/all.css",
-  "style": "css/all.css",
-  "scripts": {
-    "start": "echo 'Use this package in your project!'"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaoticvibe/font-awesome-6.6.0-pro-full.git"
+    "url": "https://github.com/PedroIssaGit/font-awesome-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PedroIssaGit/font-awesome-pro/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "build": "node ./build/build",
+    "release": "node ./build/release",
+    "start": "http-server ./ -o -c 1 -a localhost"
   }
 }
