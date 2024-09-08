@@ -3,7 +3,7 @@
   "version": "6.6.0",
   "private": true,
   "description": "Font Awesome 6.6.0 Pro Full Package",
-  "main": "index.html",
+  "main": "css/all.css",
   "scripts": {
     "start": "echo 'Use this package in your project!'"
   },
